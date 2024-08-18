@@ -1,3 +1,3 @@
-print("Hello")
-print("test01")
-print("test02")
+print("main에 추가1")
+print("main에 추가2")
+
