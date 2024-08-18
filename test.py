@@ -1,1 +1,3 @@
-# 다 지웠음
+print("Hello")
+print("test01")
+print("test02")
