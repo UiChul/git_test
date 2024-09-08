@@ -1,0 +1,86 @@
+{
+    "user_id": 155,
+    "name": "Wooin JUNG",
+    "email": "wooin092633@gmail.com",
+    "permission_group": "Admin",
+    "projects": [
+        {
+            "id": 192,
+            "name": "Yummy",
+            "resolution_width": "1920",
+            "resolution_height": "1920",
+            "status": null,
+            "shot_code": {
+                "gamja": {
+                    "steps": [
+                        "lgt"
+                    ]
+                }
+            }
+        },
+        {
+            "id": 222,
+            "name": "YUMMIE",
+            "resolution_width": "1920",
+            "resolution_height": "1080",
+            "status": "Active",
+            "shot_code": {
+                "BRK_010": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "BRK_020": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "FLB_010": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "FLB_020": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "INS_010": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "INS_020": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "PKG_010": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "PKG_020": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "PKG_030": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "FNL_010": {
+                    "steps": [
+                        "cmp"
+                    ]
+                },
+                "FNL_020": {
+                    "steps": [
+                        "cmp"
+                    ]
+                }
+            }
+        }
+    ]
+}
